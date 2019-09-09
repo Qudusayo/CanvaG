@@ -18,6 +18,8 @@ Usage
 ### Github
 Direct cloning and adding `<script src="canvaG.js"></script>` to your HTML file instead
 
+### HOW TO USE
+
 create any element in and put the `<canvas id="canvas"></canvas>` tag in the element;
 ```html
 <div id="drawing"><canvas id="canvas"></canvas></div>
