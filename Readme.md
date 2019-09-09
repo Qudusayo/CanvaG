@@ -8,10 +8,12 @@
 Usage
 =====================
 ### Npm
+##### Installation
+`npm i canvag`
 * Add the `<script src="node_modules/canvag/canvaG.js"></script>` to your HTML file
 
 ### Js Delivr
-cdn.jsdelivr.net/npm/canvag@1.0.2
+`cdn.jsdelivr.net/npm/canvag@1.0.2`
 
 ### Github
 Direct cloning and adding `<script src="canvaG.js"></script>` to your HTML file instead
