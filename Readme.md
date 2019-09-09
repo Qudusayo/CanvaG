@@ -3,7 +3,7 @@
 **Canvas graph ( canvaG ) is a graph for getting accurate and appropriate positioning of canvas elements.**
 
 
-![This is canvas-g](canvas-g.png)
+![This is canvas-g](canvas-g.PNG)
 
 Usage
 =====================
