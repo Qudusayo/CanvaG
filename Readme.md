@@ -1,6 +1,6 @@
 # CANVA - G
 
-**Canvas graph ( canvaG ) is a graph for getting accurate and appropriate positioning of canvas elements.**
+**Canvas graph ( canvaG ) is a graph for getting accurate and appropriate positioning of canvas elements when using canvas.**
 
 
 ![This is canvas-g](canvas-g.PNG)
